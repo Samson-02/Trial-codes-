@@ -1,6 +1,4 @@
-public class Main {
-    
-	 class Employee {
+       class Employee {
 	    String name;
 	    int year;
 	    String address;
@@ -10,9 +8,8 @@ public class Main {
 	        this.year = year;
 	        this.address = address;
 	    }
-	} 
 	      
-    class K{
+    public class Mainclass{
          public static void main(String[] args){
              
             System.out.println(" EMPLOYEE DETAILS \n");
